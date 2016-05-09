@@ -1,4 +1,4 @@
-# forward-euler-demo
+# Forward-Euler Demo
 
 This simple program generates animations of the motion of a planet
 near a star. The goal is to show how the simple forward-Euler method
